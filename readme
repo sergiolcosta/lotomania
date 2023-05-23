@@ -1,0 +1,24 @@
+Projeto pessoal de Análise de Dados. Nele, analiso os dados referente a todos os jogos da história da Lotomania (Loterias do Brasil). 
+
+Nesse projeto dá para tirar vários insights sobre o comportamento dos dados durante todo o período dos jogos ocorridos.
+
+Realizei também a análise com os últimos 15 jogos. Com esse estudo, não dá para garantir o acerto na Lotomania, mas dá para se aproximar no padrão dos jogos.
+
+
+Abaixo as analises realizadas.
+
+- Análise de frequência de números pares e ímpares
+- Análise de números primos
+- Análise de repetições de números
+- Análise de números mais e menos sorteados
+- Análise de sequências numéricas
+- Análise de números que aparecem em sequência
+- Análise de Jogos repetidos.
+- Análise de números de Fibonacci.
+- Contagem de números por linha da cartela
+- Contagem de Frequencia da contagem de números por linha
+- Análise de desvio padrão
+- Histograma de cada coluna
+- Analise de Números Compostos
+- Analise de Números Perrin
+- Analise de Números de Lucas
